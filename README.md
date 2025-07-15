@@ -9,7 +9,7 @@ summary: XGBoost学习与使用
 tags: 决策树, 机器学习, 集成学习
 
 <aside>
-💡 *我是任伟Ravey，*10年资深编程开发经验的工程师，带你走进ai的世界。如果你觉得文章对你有帮助*，也欢迎你和我一起探讨ai技术。我的邮箱rw_3306@163.com，微信号Ravey6379，博客：https://blog.ravey.site*
+💡 *我是任伟Ravey，*10年资深编程开发经验的工程师，带你走进ai的世界。如果你觉得文章对你有帮助*，也欢迎你和我一起探讨ai技术。我的邮箱rw_3306@163.com，微信号Ravey6379，博客：https://blog.ravey.site
 
 </aside>
 
